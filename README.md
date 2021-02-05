@@ -14,6 +14,8 @@ pip3 install scikit-image
 
 python3 -m pip install tensorflow==2.20
 
+# Ejecución
+
 Para ejecutar el programa, escribir en la terminal:
 
  
@@ -28,6 +30,6 @@ Para ejecutar el programa, escribir en la terminal:
  
  
  
- Integrantes:
+# Integrantes:
     Ruiz López Jorge Antonio
     García Salman Aldo Iván
